@@ -14,7 +14,9 @@ I aim to build an international career in the technology field, contributing to 
   
 </div>
 
-## 📌 Featured Projects  
+---
+
+ 📌 **Featured Projects**
 - 📊 **Sales Dashboard** → Dashboard for commercial analysis and KPIs (Power BI / Excel)  
 - 💻 **Angular Playground** → Experiments and learning projects in Angular  
 - 🛠️ **Data Tools** → Utilities and small scripts to simplify data analysis
