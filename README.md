@@ -4,7 +4,7 @@ Business Administration and Systems Development Specialist, with experience in B
 
 Intermediate English level (B1).
 
-I aim to build an international career in the technology field, contributing to innovative projects that combine my technical expertise, analytical mindset, and passion for multicultural environments. 🌐
+I'am to build an international career in the technology field, contributing to innovative projects that combine my technical expertise, analytical mindset, and passion for multicultural environments. 🌐
 
 ---
 
